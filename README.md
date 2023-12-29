@@ -1,0 +1,6 @@
+![1](https://github.com/Ima-Ma/The-Bakers/assets/154437507/3fb63f00-5346-4285-8e5f-7a7230a434a5)
+![2](https://github.com/Ima-Ma/The-Bakers/assets/154437507/ad894ad5-fd8a-44c1-b084-60eaa575e927)
+![5](https://github.com/Ima-Ma/The-Bakers/assets/154437507/f3701999-323f-4ad8-9b1f-be44bfefe2bd)
+![3e](https://github.com/Ima-Ma/The-Bakers/assets/154437507/71a8bec1-db47-44f0-9413-4495c914fb9f)
+![4](https://github.com/Ima-Ma/The-Bakers/assets/154437507/afb8af7b-cced-4bdf-a8ce-43da3b0a4e95)
+![6](https://github.com/Ima-Ma/The-Bakers/assets/154437507/22c6dfa4-9c4c-42af-8026-a35d604eec4e)
