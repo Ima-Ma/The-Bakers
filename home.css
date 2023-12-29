@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.showcase video {
+    position: absolute;
+    width: 100%;
+    height: 110%;
+    object-fit: cover;
+}
+  .navbar{
+    background-color: rgba(255, 255, 255, 0.685);
+  }
+  #logo{
+    height: 100px;
+    width: 110px;
+  }
+  .navbar-collapse ul li{
+    font-size: 24px;
+    margin: 20px;
+    margin-bottom: -10px;
+    font-weight: 200;
+  }
+  .nav-item i{
+    color: rgb(255, 255, 255);
+  }
+  .nav-item i:hover{
+    cursor: pointer;
+    font-size: 24px;
+  }
+  .box{
+    margin-top: 440px;
+    background-color:rgb(2, 46, 46) ;
+    color: white; 
+    font-size: 32px;
+  }
+  #hr{
+    border: 2px solid white;
+    width: 35%;
+    margin: auto;
+  }
+  .main-headings{
+    position: relative;
+  }
+  .main-headings h1{
+    font-size: 122px;
+    text-shadow: 2px 2px 2px rgb(2, 46, 46);
+  }
+ .products img{
+  height: 400px;
+  width: 600px;
+  margin: 20px;
+ }
+ .products img:hover{
+  cursor: pointer;
+ }
+ #Explore{
+  padding: 14px 16px;
+  border: none;
+  font-size: 24px;
+  font-weight: 900;
+  color: rgb(2, 46, 46);
+  background-color: white;
+ }
+ .cards-details{
+  margin-bottom: -160px;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-shadow: 3px 3px 4px rgb(2, 46, 46);
+  position: relative;
+
+ }
+ .btn-link i{
+  color:rgb(2, 46, 46) ;
+ }
+ .active2{
+  font-weight: 900;
+}
